@@ -39,6 +39,10 @@ For creating custom schemas and attributes
 ---Security Consideration in LDAP---
 
   >https://www.openldap.org/doc/admin24/security.html
+ 
+ --- UBUNTU  Login using LDAP ---
+ 
+  >https://www.unixmen.com/configure-linux-clients-to-authenticate-using-openldap/
 
 This Repo is for Ldap and learning purpose only. All code connected in links are Copyright to their respective publishers
 and code use from that links should be verified from the pulishers for use.
